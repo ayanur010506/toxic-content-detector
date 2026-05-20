@@ -155,10 +155,10 @@ The notebook generates 11 charts:
 
 ## 👩‍🎓 Author
 
-**[Your Name]**  
+**[Ayanat Nuraly]**  
 Bachelor's student, Astana IT University  
-Specialty: Information Security / Computer Science  
-Year: 2025
+Specialty: Cybersecurity  
+Year: 2026
 
 ---
 
